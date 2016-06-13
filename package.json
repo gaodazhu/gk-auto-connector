@@ -1,0 +1,11 @@
+{
+    "name": "gk-auto-connector",
+    "main": "index.html",
+    "nodejs": true,
+    "node-main": "main.js",
+    "window": {
+        "show": false,
+        "toolbar":false
+    }
+}
+
